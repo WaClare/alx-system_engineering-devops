@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello WaClare"
+echo "hello $WaClare"
